@@ -1,16 +1,25 @@
-## Hi there 👋
+###Hey, I'm Aisha — @Errorythm_
 
-<!--
-**aisha-errorythm/aisha-errorythm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  • `build.break.rebuild.`
 
-Here are some ideas to get you started:
+**B.Sc. Computer Science Student | Aspiring Software Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building practical projects and exploring **Python, AI, Web Development, Automation, and Software Engineering**.
+
+## 🛠️ Tech Stack
+
+`Python` `C` `HTML` `CSS` `MySQL` `NumPy` `DSA` `Streamlit` `Git` `GitHub`
+
+## 🚀 Building
+
+🐍 Python Projects • 🤖 AI • 🌐 Web Apps • ⚙️ Automation
+
+## 📈 Learning
+
+```text
+Learn → Build → Break → Debug → Improve
+```
+
+### 💜 Errorythm
+
+**Code. Create. Rebuild.**
